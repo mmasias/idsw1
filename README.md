@@ -41,3 +41,15 @@ DdR - ECdU   |🔲|✅|✅
 
 - [Guía acerca de los aspectos ***no técnicos*** para la gestión de un proyecto de software libre](https://tldp.org/HOWTO/Software-Proj-Mgmt-HOWTO/index.html)
 - [Sobre el dibujo de diagramas](https://github.com/mmasias/IdSw1/blob/main/documentos/Sobre_el_dibujo_de_diagramas.pdf)
+
+## Valoración académica
+
+📊 **[Valoración académica completa del repositorio](documentos/valoracion/README.md)**
+
+El repositorio ha sido sometido a una evaluación académica exhaustiva que incluye:
+- Análisis de contenido y estructura pedagógica
+- Evaluación de recursos didácticos y metodología
+- Recomendaciones específicas de mejora
+- Plan de desarrollo futuro
+
+**Puntuación obtenida: 8.5/10** - Recurso educativo de alta calidad con excelente estructura pedagógica y contenido técnico sólido.
