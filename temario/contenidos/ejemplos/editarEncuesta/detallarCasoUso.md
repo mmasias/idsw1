@@ -20,7 +20,7 @@ El [caso de uso](README.md) detallado con las notaciones habituales: prosa, plan
 
 ## 2. Escenario principal y extensiones
 
-Plantilla de escenarios (estilo Cockburn), la más extendida en textos y empresas.
+Plantilla de escenarios en el estilo de Cockburn ([*Writing Effective Use Cases*](https://www.informit.com/store/writing-effective-use-cases-9780201702255), Addison-Wesley, 2000), la más extendida en textos y empresas.
 
 |Campo|Valor|
 |-|-|
