@@ -17,8 +17,9 @@ Esta carpeta contiene ejemplos prácticos organizados por disciplina/tema.
 - `ejemplo-eCdU.md` - Ejemplo de estructuración de casos de uso
 - `*.puml` - Archivos PlantUML para diagramas
 
-### `/editarEncuesta/` - Detalle de casos de uso
-- `README.md` - Un mismo caso de uso (PULSO) detallado con prosa, escenario y extensiones, tabla, diagrama de actividad, pseudocódigo y diagrama de estados, con su comparación
+### `/editarEncuesta/` - Detallar y prototipar un caso de uso
+- `detallarCasoUso.md` - El mismo caso de uso (PULSO) en prosa, escenario y extensiones, tabla, diagrama de actividad, pseudocódigo y diagrama de estados, con su comparación
+- `prototiparCasoUso.md` - Wireframe y endpoint como las dos caras del prototipo
 
 ### `/diagramas/` - Diagramas generales
 - `diagramas001.md` - Conceptos básicos de diagramado
