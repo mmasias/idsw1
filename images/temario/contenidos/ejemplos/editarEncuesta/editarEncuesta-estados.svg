@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="1003px" preserveAspectRatio="none" style="width:1460px;height:1003px;" version="1.1" viewBox="0 0 1460 1003" width="1460px" zoomAndPan="magnify"><defs><filter height="300%" id="f1dxvfxbjlz378" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><rect fill="#FEFECE" filter="url(#f1dxvfxbjlz378)" height="50" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="156" x="649" y="7.93"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="649" x2="805" y1="36.9979" y2="36.9979"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="136" x="659" y="27.8959">ENCUESTA_ABIERTO</text><rect fill="#FEFECE" filter="url(#f1dxvfxbjlz378)" height="50" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="156" x="649" y="942"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="649" x2="805" y1="971.0679" y2="971.0679"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="136" x="659" y="961.9659">ENCUESTA_ABIERTO</text><rect fill="#FEFECE" filter="url(#f1dxvfxbjlz378)" height="664.0679" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="1442" x="6" y="176.93"/><rect fill="#FFFFFF" height="629" rx="12.5" ry="12.5" style="stroke: #FFFFFF; stroke-width: 1.0;" width="1436" x="9" y="208.9979"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="6" x2="1448" y1="205.9979" y2="205.9979"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="109" x="672.5" y="196.8959">editarEncuesta()</text><polygon fill="#FEFECE" filter="url(#f1dxvfxbjlz378)" points="562,315.9979,574,327.9979,562,339.9979,550,327.9979,562,315.9979" style="stroke: #A80036; stroke-width: 1.5;"/><rect fill="#FEFECE" filter="url(#f1dxvfxbjlz378)" height="50" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="50" x="275" y="505.9979"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="275" x2="325" y1="535.0658" y2="535.0658"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="302" y="525.9639"/><polygon fill="#FEFECE" filter="url(#f1dxvfxbjlz378)" points="283,668.9979,295,680.9979,283,692.9979,271,680.9979,283,668.9979" style="stroke: #A80036; stroke-width: 1.5;"/><rect fill="#FEFECE" filter="url(#f1dxvfxbjlz378)" height="50" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="50" x="778" y="505.9979"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="778" x2="828" y1="535.0658" y2="535.0658"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="805" y="525.9639"/><polygon fill="#FEFECE" filter="url(#f1dxvfxbjlz378)" points="808,668.9979,820,680.9979,808,692.9979,796,680.9979,808,668.9979" style="stroke: #A80036; stroke-width: 1.5;"/><ellipse cx="562" cy="228.9979" fill="#000000" filter="url(#f1dxvfxbjlz378)" rx="10" ry="10" style="stroke: none; stroke-width: 1.0;"/><ellipse cx="545" cy="815.9979" fill="none" filter="url(#f1dxvfxbjlz378)" rx="10" ry="10" style="stroke: #000000; stroke-width: 1.0;"/><ellipse cx="545.5" cy="816.4979" fill="#000000" rx="6" ry="6" style="stroke: none; stroke-width: 1.0;"/><!--MD5=[830dc7feac5a96c626928dc9c624dd0d]
+link *start*editarEncuesta to e--><path d="M562,239.2979 C562,255.3179 562,288.3779 562,309.0179 " fill="none" id="*start*editarEncuesta-&gt;e" style="stroke: #008000; stroke-width: 1.0;"/><polygon fill="#008000" points="562,313.9779,566,304.9779,562,308.9779,558,304.9779,562,313.9779" style="stroke: #008000; stroke-width: 1.0;"/><path d="M567,261.9979 L567,288.9979 L893,288.9979 L893,271.9979 L883,261.9979 L567,261.9979 " fill="#FBFB77" filter="url(#f1dxvfxbjlz378)" style="stroke: #008000; stroke-width: 1.0;"/><path d="M883,261.9979 L883,271.9979 L893,271.9979 L883,261.9979 " fill="#FBFB77" style="stroke: #008000; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="52" x="573" y="280.8949">Sistema</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="250" x="628" y="280.8949">presenta los datos actuales de la Encuesta</text><!--MD5=[dd83c6dcd5741c7d49cb04b103be394e]
+link e to SolicitandoDatos--><path d="M551.91,330.2779 C507.78,335.8979 334,357.9979 334,357.9979 C334,357.9979 315.76,450.2479 306,499.6279 " fill="none" id="e-&gt;SolicitandoDatos" style="stroke: #008000; stroke-width: 1.0;"/><polygon fill="#008000" points="305.09,504.2379,310.7638,496.1876,306.0623,499.3334,302.9166,494.6319,305.09,504.2379" style="stroke: #008000; stroke-width: 1.0;"/><path d="M339,362.9979 L339,478.9979 L758,478.9979 L758,372.9979 L748,362.9979 L339,362.9979 " fill="#FBFB77" filter="url(#f1dxvfxbjlz378)" style="stroke: #008000; stroke-width: 1.0;"/><path d="M748,362.9979 L748,372.9979 L758,372.9979 L748,362.9979 " fill="#FBFB77" style="stroke: #008000; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="62" x="345" y="381.8949">[Borrador]</text><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="52" x="345" y="399.6009">Sistema</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="326" x="400" y="399.6009">presenta selección de Plantillas Publicadas, programas,</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="279" x="345" y="417.307">asignaturas del programa y cursos académicos</text><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="52" x="345" y="435.013">Sistema</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="343" x="400" y="435.013">permite introducir nombre (por omisión, el de la Plantilla),</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="196" x="345" y="452.719">apertura, cierre y umbral mínimo</text><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="52" x="345" y="470.425">Sistema</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="147" x="400" y="470.425">permite solicitar guardar</text><!--MD5=[aa63b4bfd389123778e3a84d76621d69]
+link SolicitandoDatos to cDatos--><path d="M297.19,556.4379 C293.73,586.5879 287.93,637.0379 284.93,663.1679 " fill="none" id="SolicitandoDatos-&gt;cDatos" style="stroke: #008000; stroke-width: 1.0;"/><polygon fill="#008000" points="284.37,668.0579,289.3716,659.5735,284.941,663.0906,281.4239,658.66,284.37,668.0579" style="stroke: #008000; stroke-width: 1.0;"/><path d="M299.98,578.9979 L299.98,641.9979 L787.98,641.9979 L787.98,588.9979 L777.98,578.9979 L299.98,578.9979 " fill="#FBFB77" filter="url(#f1dxvfxbjlz378)" style="stroke: #008000; stroke-width: 1.0;"/><path d="M777.98,578.9979 L777.98,588.9979 L787.98,588.9979 L777.98,578.9979 " fill="#FBFB77" style="stroke: #008000; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="91" x="305.98" y="597.8949">GestorCalidad</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="360" x="399.98" y="597.8949">selecciona Plantilla, programa, asignatura y curso académico</text><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="91" x="305.98" y="615.6009">GestorCalidad</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="373" x="399.98" y="615.6009">introduce nombre (opcional), apertura, cierre y umbral mínimo</text><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="91" x="305.98" y="633.307">GestorCalidad</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="92" x="399.98" y="633.307">solicita guardar</text><!--MD5=[ba9c79510021d677d7270808a39187af]
+link cDatos to *end*editarEncuesta--><path d="M272.57,683.1379 C223.39,688.4979 17,710.9979 17,710.9979 C17,710.9979 17,787.9979 17,787.9979 C17,787.9979 439.62,809.6079 528.66,814.1579 " fill="none" id="cDatos-&gt;*end*editarEncuesta" style="stroke: #008000; stroke-width: 1.0;"/><polygon fill="#008000" points="533.41,814.4079,524.6273,809.9509,528.4166,814.1511,524.2164,817.9404,533.41,814.4079" style="stroke: #008000; stroke-width: 1.0;"/><path d="M22,715.9979 L22,778.9979 L350,778.9979 L350,725.9979 L340,715.9979 L22,715.9979 " fill="#FBFB77" filter="url(#f1dxvfxbjlz378)" style="stroke: #008000; stroke-width: 1.0;"/><path d="M340,715.9979 L340,725.9979 L350,725.9979 L340,715.9979 " fill="#FBFB77" style="stroke: #008000; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="303" x="28" y="734.8949">[datos completos, nombre de hasta 200 caracteres,</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="302" x="28" y="752.6009">cierre posterior a apertura, umbral entre 1 y 10000]</text><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="52" x="28" y="770.307">Sistema</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="252" x="83" y="770.307">presenta la Encuesta con los datos nuevos</text><!--MD5=[ba9c79510021d677d7270808a39187af]
+link cDatos to *end*editarEncuesta--><path d="M291.42,685.2079 C311.21,692.7579 359,710.9979 359,710.9979 C359,710.9979 382,787.9979 382,787.9979 C382,787.9979 488.06,805.5679 529.08,812.3579 " fill="none" id="cDatos-&gt;*end*editarEncuesta-1" style="stroke: #FF0000; stroke-width: 1.0;"/><polygon fill="#FF0000" points="533.8,813.1379,525.5724,807.7243,528.8669,812.3229,524.2683,815.6173,533.8,813.1379" style="stroke: #FF0000; stroke-width: 1.0;"/><path d="M387,724.9979 L387,769.9979 L679,769.9979 L679,734.9979 L669,724.9979 L387,724.9979 " fill="#FBFB77" filter="url(#f1dxvfxbjlz378)" style="stroke: #FF0000; stroke-width: 1.0;"/><path d="M669,724.9979 L669,734.9979 L679,734.9979 L669,724.9979 " fill="#FBFB77" style="stroke: #FF0000; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="160" x="393" y="743.8949">[dato que falta o no válido]</text><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="52" x="393" y="761.6009">Sistema</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="216" x="448" y="761.6009">presenta mensaje del dato no válido</text><!--MD5=[e6bb7bdeda3b5027b76d5b242530b42f]
+link e to SolicitandoCierre--><path d="M572.08,330.3979 C613.83,336.1879 771,357.9979 771,357.9979 C771,357.9979 788.09,449.8679 797.29,499.3279 " fill="none" id="e-&gt;SolicitandoCierre" style="stroke: #008000; stroke-width: 1.0;"/><polygon fill="#008000" points="798.21,504.2279,800.4963,494.6481,797.2955,499.3123,792.6313,496.1114,798.21,504.2279" style="stroke: #008000; stroke-width: 1.0;"/><path d="M799.42,389.4979 L799.42,452.4979 L1022.42,452.4979 L1022.42,399.4979 L1012.42,389.4979 L799.42,389.4979 " fill="#FBFB77" filter="url(#f1dxvfxbjlz378)" style="stroke: #008000; stroke-width: 1.0;"/><path d="M1012.42,389.4979 L1012.42,399.4979 L1022.42,399.4979 L1012.42,389.4979 " fill="#FBFB77" style="stroke: #008000; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="51" x="805.42" y="408.3949">[Abierta]</text><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="52" x="805.42" y="426.1009">Sistema</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="145" x="860.42" y="426.1009">permite introducir cierre</text><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="52" x="805.42" y="443.807">Sistema</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="147" x="860.42" y="443.807">permite solicitar guardar</text><!--MD5=[e9ab5bb247db947c1859edc01b8420b6]
+link SolicitandoCierre to cCierre--><path d="M803.83,556.4379 C804.83,586.2779 806.51,636.0379 807.4,662.3779 " fill="none" id="SolicitandoCierre-&gt;cCierre" style="stroke: #008000; stroke-width: 1.0;"/><polygon fill="#008000" points="807.57,667.3379,811.2593,658.2061,807.3987,662.3409,803.264,658.4803,807.57,667.3379" style="stroke: #008000; stroke-width: 1.0;"/><path d="M811.92,587.9979 L811.92,632.9979 L1020.92,632.9979 L1020.92,597.9979 L1010.92,587.9979 L811.92,587.9979 " fill="#FBFB77" filter="url(#f1dxvfxbjlz378)" style="stroke: #008000; stroke-width: 1.0;"/><path d="M1010.92,587.9979 L1010.92,597.9979 L1020.92,597.9979 L1010.92,587.9979 " fill="#FBFB77" style="stroke: #008000; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="91" x="817.92" y="606.8949">GestorCalidad</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="94" x="911.92" y="606.8949">introduce cierre</text><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="91" x="817.92" y="624.6009">GestorCalidad</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="92" x="911.92" y="624.6009">solicita guardar</text><!--MD5=[80b575d6f392172b304289e168af34f5]
+link cCierre to *end*editarEncuesta--><path d="M799.05,684.6779 C775.04,691.8579 711,710.9979 711,710.9979 C711,710.9979 688,787.9979 688,787.9979 C688,787.9979 598.61,804.8779 561.18,811.9479 " fill="none" id="cCierre-&gt;*end*editarEncuesta" style="stroke: #008000; stroke-width: 1.0;"/><polygon fill="#008000" points="556.32,812.8579,565.9062,815.1174,561.2331,811.9296,564.4208,807.2565,556.32,812.8579" style="stroke: #008000; stroke-width: 1.0;"/><path d="M716,724.9979 L716,769.9979 L1030,769.9979 L1030,734.9979 L1020,724.9979 L716,724.9979 " fill="#FBFB77" filter="url(#f1dxvfxbjlz378)" style="stroke: #008000; stroke-width: 1.0;"/><path d="M1020,724.9979 L1020,734.9979 L1030,734.9979 L1020,724.9979 " fill="#FBFB77" style="stroke: #008000; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="151" x="722" y="743.8949">[cierre posterior al actual]</text><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="52" x="722" y="761.6009">Sistema</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="238" x="777" y="761.6009">presenta la Encuesta con el cierre nuevo</text><!--MD5=[80b575d6f392172b304289e168af34f5]
+link cCierre to *end*editarEncuesta--><path d="M818.22,683.2779 C862.93,688.8979 1039,710.9979 1039,710.9979 C1039,710.9979 1039,787.9979 1039,787.9979 C1039,787.9979 647.74,809.3779 561.63,814.0879 " fill="none" id="cCierre-&gt;*end*editarEncuesta-1" style="stroke: #FF0000; stroke-width: 1.0;"/><polygon fill="#FF0000" points="556.83,814.3479,566.0336,817.8542,561.8226,814.0769,565.5999,809.8659,556.83,814.3479" style="stroke: #FF0000; stroke-width: 1.0;"/><path d="M1044,724.9979 L1044,769.9979 L1406,769.9979 L1406,734.9979 L1396,724.9979 L1044,724.9979 " fill="#FBFB77" filter="url(#f1dxvfxbjlz378)" style="stroke: #FF0000; stroke-width: 1.0;"/><path d="M1396,724.9979 L1396,734.9979 L1406,734.9979 L1396,724.9979 " fill="#FBFB77" style="stroke: #FF0000; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="170" x="1050" y="743.8949">[cierre no posterior al actual]</text><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="52" x="1050" y="761.6009">Sistema</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="286" x="1105" y="761.6009">presenta mensaje de que el cierre solo se amplía</text><!--MD5=[f583c28d6814cef8b4a1cbc89620cbda]
+link ENCUESTA_ABIERTO to editarEncuesta--><path d="M727,58.42 C727,82.78 727,123.22 727,170.14 " fill="none" id="ENCUESTA_ABIERTO-&gt;editarEncuesta" style="stroke: #008000; stroke-width: 1.0;"/><polygon fill="#008000" points="727,174.98,731,165.98,727,169.98,723,165.98,727,174.98" style="stroke: #008000; stroke-width: 1.0;"/><path d="M732,92.93 L732,137.93 L986,137.93 L986,102.93 L976,92.93 L732,92.93 " fill="#FBFB77" filter="url(#f1dxvfxbjlz378)" style="stroke: #008000; stroke-width: 1.0;"/><path d="M976,92.93 L976,102.93 L986,102.93 L976,92.93 " fill="#FBFB77" style="stroke: #008000; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="233" x="738" y="111.827">[Encuesta suelta en Borrador o Abierta]</text><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="91" x="738" y="129.533">GestorCalidad</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="136" x="832" y="129.533">solicita editar Encuesta</text><!--MD5=[32212bbe41184f5aa782a3f470f88b8b]
+link editarEncuesta to ENCUESTA_ABIERTO_SALIDA--><path d="M638.86,841.46 C633.97,859.84 631,871 631,871 C631,871 631,912 631,912 C631,912 654.22,925.06 677.82,938.34 " fill="none" id="editarEncuesta-&gt;ENCUESTA_ABIERTO_SALIDA" style="stroke: #008000; stroke-width: 1.0;"/><polygon fill="#008000" points="682.17,940.79,676.2955,932.8849,677.8148,938.3339,672.3658,939.8533,682.17,940.79" style="stroke: #008000; stroke-width: 1.0;"/><path d="M636,876 L636,903 L768,903 L768,886 L758,876 L636,876 " fill="#FBFB77" filter="url(#f1dxvfxbjlz378)" style="stroke: #008000; stroke-width: 1.0;"/><path d="M758,876 L758,886 L768,886 L758,876 " fill="#FBFB77" style="stroke: #008000; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="111" x="642" y="894.897">datos actualizados</text><!--MD5=[32212bbe41184f5aa782a3f470f88b8b]
+link editarEncuesta to ENCUESTA_ABIERTO_SALIDA--><path d="M776.58,841.46 C779.33,859.84 781,871 781,871 C781,871 781,912 781,912 C781,912 768.7,924.3 755.84,937.16 " fill="none" id="editarEncuesta-&gt;ENCUESTA_ABIERTO_SALIDA-1" style="stroke: #FF0000; stroke-width: 1.0;"/><polygon fill="#FF0000" points="752.54,940.46,761.7324,936.9245,756.0755,936.9245,756.0755,931.2676,752.54,940.46" style="stroke: #FF0000; stroke-width: 1.0;"/><path d="M786,876 L786,903 L1094,903 L1094,886 L1084,876 L786,876 " fill="#FBFB77" filter="url(#f1dxvfxbjlz378)" style="stroke: #FF0000; stroke-width: 1.0;"/><path d="M1084,876 L1084,886 L1094,886 L1084,876 " fill="#FBFB77" style="stroke: #FF0000; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="287" x="792" y="894.897">dato no válido o cierre no ampliado, sin cambios</text><!--MD5=[ab8b19f978270a3a0d133a74324add68]
+@startuml editarEncuesta-estados
+
+skinparam linetype polyline
+
+state ENCUESTA_ABIERTO
+state ENCUESTA_ABIERTO_SALIDA as "ENCUESTA_ABIERTO"
+
+ENCUESTA_ABIERTO -[#green]-> editarEncuesta
+note on link
+[Encuesta suelta en Borrador o Abierta]
+<b>GestorCalidad</b> solicita editar Encuesta
+end note
+
+state editarEncuesta as "editarEncuesta()" {
+
+    state e <<choice>>
+    state " " as SolicitandoDatos
+    state cDatos <<choice>>
+    state " " as SolicitandoCierre
+    state cCierre <<choice>>
+
+    [*] -[#green]-> e
+    note on link
+    <b>Sistema</b> presenta los datos actuales de la Encuesta
+    end note
+
+    e -[#green]-> SolicitandoDatos
+    note on link
+    [Borrador]
+    <b>Sistema</b> presenta selección de Plantillas Publicadas, programas,
+    asignaturas del programa y cursos académicos
+    <b>Sistema</b> permite introducir nombre (por omisión, el de la Plantilla),
+    apertura, cierre y umbral mínimo
+    <b>Sistema</b> permite solicitar guardar
+    end note
+
+    SolicitandoDatos -[#green]-> cDatos
+    note on link
+    <b>GestorCalidad</b> selecciona Plantilla, programa, asignatura y curso académico
+    <b>GestorCalidad</b> introduce nombre (opcional), apertura, cierre y umbral mínimo
+    <b>GestorCalidad</b> solicita guardar
+    end note
+
+    cDatos -[#green]-> [*]
+    note on link
+    [datos completos, nombre de hasta 200 caracteres,
+    cierre posterior a apertura, umbral entre 1 y 10000]
+    <b>Sistema</b> presenta la Encuesta con los datos nuevos
+    end note
+
+    cDatos -[#red]-> [*]
+    note on link
+    [dato que falta o no válido]
+    <b>Sistema</b> presenta mensaje del dato no válido
+    end note
+
+    e -[#green]-> SolicitandoCierre
+    note on link
+    [Abierta]
+    <b>Sistema</b> permite introducir cierre
+    <b>Sistema</b> permite solicitar guardar
+    end note
+
+    SolicitandoCierre -[#green]-> cCierre
+    note on link
+    <b>GestorCalidad</b> introduce cierre
+    <b>GestorCalidad</b> solicita guardar
+    end note
+
+    cCierre -[#green]-> [*]
+    note on link
+    [cierre posterior al actual]
+    <b>Sistema</b> presenta la Encuesta con el cierre nuevo
+    end note
+
+    cCierre -[#red]-> [*]
+    note on link
+    [cierre no posterior al actual]
+    <b>Sistema</b> presenta mensaje de que el cierre solo se amplía
+    end note
+}
+
+editarEncuesta -[#green]-> ENCUESTA_ABIERTO_SALIDA
+note on link
+datos actualizados
+end note
+
+editarEncuesta -[#red]-> ENCUESTA_ABIERTO_SALIDA
+note on link
+dato no válido o cierre no ampliado, sin cambios
+end note
+
+@enduml
+
+PlantUML version 1.2020.02(Sun Mar 01 11:22:07 CET 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 25.0.5.1+2-1-26.04.1-Ubuntu
+Operating System: Linux
+Default Encoding: UTF-8
+Language: es
+Country: ES
+--></g></svg>

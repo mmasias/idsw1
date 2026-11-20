@@ -1,0 +1,40 @@
+@startuml editarEncuesta-actividad
+
+|GestorCalidad|
+start
+:solicitar editar Encuesta
+(suelta, en Borrador o Abierta);
+
+|Sistema|
+:presentar datos actuales de la Encuesta;
+
+if (estado de la Encuesta) then (Borrador)
+  :presentar Plantillas Publicadas, programas,
+  asignaturas del programa y cursos académicos;
+  |GestorCalidad|
+  :seleccionar Plantilla, programa, asignatura, curso;
+  :introducir nombre (opcional), apertura, cierre, umbral;
+  :solicitar guardar;
+  |Sistema|
+  if (datos completos, nombre <= 200 caracteres,
+  cierre posterior a apertura, umbral entre 1 y 10000) then (sí)
+    :presentar la Encuesta con los datos nuevos;
+  else (no)
+    :presentar mensaje del dato no válido;
+  endif
+else (Abierta)
+  :permitir introducir solo el cierre;
+  |GestorCalidad|
+  :introducir cierre;
+  :solicitar guardar;
+  |Sistema|
+  if (cierre posterior al actual) then (sí)
+    :presentar la Encuesta con el cierre nuevo;
+  else (no)
+    :presentar mensaje de que el cierre solo se amplía;
+  endif
+endif
+
+stop
+
+@enduml

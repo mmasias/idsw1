@@ -1,0 +1,35 @@
+@startsalt editarEncuesta-wireframe-borrador
+{
+    <b>EDITAR ENCUESTA</b> · Borrador
+    ====
+    <b>Plantilla (publicada):</b>
+    ^Encuesta de satisfacción de estudiantes v1^
+    <b>Nombre:</b> | "Encuesta de satisfacción de estudiantes"
+    <b>Programa:</b>
+    ^Máster en Dirección de Proyectos^
+    <b>Asignatura:</b>
+    ^DP02 Gestión de costes^
+    <b>Curso académico:</b>
+    ^2026-2027 (activo)^
+    <b>Apertura:</b> | "01/12/2026 09:00"
+    <b>Cierre:</b> | "15/12/2026 23:59"
+    <b>Umbral mínimo de respuestas para publicar:</b> | "5   "
+    ====
+    [Guardar]
+}
+@endsalt
+
+@startsalt editarEncuesta-wireframe-abierta
+{
+    <b>EDITAR ENCUESTA</b> · Abierta
+    <b>Encuesta de satisfacción de estudiantes</b>
+    DP02 Gestión de costes · Máster en Dirección de Proyectos · 2026-2027
+    Encuesta de satisfacción de estudiantes v1
+    Apertura: 01/12/2026 09:00 · umbral 5
+    ====
+    <b>Cierre:</b> | "22/12/2026 23:59"
+    <i>Solo se puede ampliar el cierre.</i>
+    ====
+    [Guardar]
+}
+@endsalt

@@ -1,0 +1,93 @@
+@startuml editarEncuesta-estados
+
+skinparam linetype polyline
+
+state ENCUESTA_ABIERTO
+state ENCUESTA_ABIERTO_SALIDA as "ENCUESTA_ABIERTO"
+
+ENCUESTA_ABIERTO -[#green]-> editarEncuesta
+note on link
+[Encuesta suelta en Borrador o Abierta]
+<b>GestorCalidad</b> solicita editar Encuesta
+end note
+
+state editarEncuesta as "editarEncuesta()" {
+
+    state e <<choice>>
+    state " " as SolicitandoDatos
+    state cDatos <<choice>>
+    state " " as SolicitandoCierre
+    state cCierre <<choice>>
+
+    [*] -[#green]-> e
+    note on link
+    <b>Sistema</b> presenta los datos actuales de la Encuesta
+    end note
+
+    e -[#green]-> SolicitandoDatos
+    note on link
+    [Borrador]
+    <b>Sistema</b> presenta selección de Plantillas Publicadas, programas,
+    asignaturas del programa y cursos académicos
+    <b>Sistema</b> permite introducir nombre (por omisión, el de la Plantilla),
+    apertura, cierre y umbral mínimo
+    <b>Sistema</b> permite solicitar guardar
+    end note
+
+    SolicitandoDatos -[#green]-> cDatos
+    note on link
+    <b>GestorCalidad</b> selecciona Plantilla, programa, asignatura y curso académico
+    <b>GestorCalidad</b> introduce nombre (opcional), apertura, cierre y umbral mínimo
+    <b>GestorCalidad</b> solicita guardar
+    end note
+
+    cDatos -[#green]-> [*]
+    note on link
+    [datos completos, nombre de hasta 200 caracteres,
+    cierre posterior a apertura, umbral entre 1 y 10000]
+    <b>Sistema</b> presenta la Encuesta con los datos nuevos
+    end note
+
+    cDatos -[#red]-> [*]
+    note on link
+    [dato que falta o no válido]
+    <b>Sistema</b> presenta mensaje del dato no válido
+    end note
+
+    e -[#green]-> SolicitandoCierre
+    note on link
+    [Abierta]
+    <b>Sistema</b> permite introducir cierre
+    <b>Sistema</b> permite solicitar guardar
+    end note
+
+    SolicitandoCierre -[#green]-> cCierre
+    note on link
+    <b>GestorCalidad</b> introduce cierre
+    <b>GestorCalidad</b> solicita guardar
+    end note
+
+    cCierre -[#green]-> [*]
+    note on link
+    [cierre posterior al actual]
+    <b>Sistema</b> presenta la Encuesta con el cierre nuevo
+    end note
+
+    cCierre -[#red]-> [*]
+    note on link
+    [cierre no posterior al actual]
+    <b>Sistema</b> presenta mensaje de que el cierre solo se amplía
+    end note
+}
+
+editarEncuesta -[#green]-> ENCUESTA_ABIERTO_SALIDA
+note on link
+datos actualizados
+end note
+
+editarEncuesta -[#red]-> ENCUESTA_ABIERTO_SALIDA
+note on link
+dato no válido o cierre no ampliado, sin cambios
+end note
+
+@enduml

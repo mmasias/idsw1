@@ -1,0 +1,19 @@
+@startuml editarEncuesta-contexto
+
+left to right direction
+hide empty description
+
+' Fragmento del diagrama de contexto del GestorCalidad en PULSO: solo la
+' lista y la ficha de encuestas. Los estados son contextos de disponibilidad
+' de casos de uso, no pantallas.
+
+state ENCUESTAS_ABIERTO
+state ENCUESTA_ABIERTO
+
+[*] --> ENCUESTAS_ABIERTO
+ENCUESTAS_ABIERTO --> ENCUESTA_ABIERTO : abrirEncuesta()\ncrearEncuesta()
+ENCUESTA_ABIERTO --> ENCUESTAS_ABIERTO : abrirEncuestas()
+ENCUESTAS_ABIERTO --> ENCUESTAS_ABIERTO : eliminarEncuesta()
+ENCUESTA_ABIERTO --> ENCUESTA_ABIERTO : <b>editarEncuesta()</b>\nemitirCodigos()\nlanzarEncuesta()\ncerrarEncuesta()\npublicarResultados()
+
+@enduml

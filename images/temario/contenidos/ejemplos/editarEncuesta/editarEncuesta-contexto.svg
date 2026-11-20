@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="207px" preserveAspectRatio="none" style="width:556px;height:207px;" version="1.1" viewBox="0 0 556 207" width="556px" zoomAndPan="magnify"><defs><filter height="300%" id="fwfkhxvymxvcc" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><rect fill="#FEFECE" filter="url(#fwfkhxvymxvcc)" height="40" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="154" x="87" y="142.84"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="144" x="92" y="168.272">ENCUESTAS_ABIERTO</text><rect fill="#FEFECE" filter="url(#fwfkhxvymxvcc)" height="40" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="146" x="399" y="142.84"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="136" x="404" y="168.272">ENCUESTA_ABIERTO</text><ellipse cx="16" cy="162.84" fill="#000000" filter="url(#fwfkhxvymxvcc)" rx="10" ry="10" style="stroke: none; stroke-width: 1.0;"/><!--MD5=[7e187a65d261f49df88f4edb45e08cbd]
+link *start to ENCUESTAS_ABIERTO--><path d="M26.13,162.84 C37.6,162.84 58.46,162.84 80.5,162.84 " fill="none" id="*start-&gt;ENCUESTAS_ABIERTO" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="85.23,162.84,76.23,158.84,80.23,162.84,76.23,166.84,85.23,162.84" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[436bc553df94ef87878ca60822941463]
+link ENCUESTAS_ABIERTO to ENCUESTA_ABIERTO--><path d="M241.43,162.84 C287.41,162.84 345.84,162.84 392.24,162.84 " fill="none" id="ENCUESTAS_ABIERTO-&gt;ENCUESTA_ABIERTO" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="397.19,162.84,388.19,158.84,392.19,162.84,388.19,166.84,397.19,162.84" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="90" x="275" y="140.737">abrirEncuesta()</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="92" x="274" y="158.443">crearEncuesta()</text><!--MD5=[4de7426fb8d182bd1f3d1b5852c7f75d]
+link ENCUESTA_ABIERTO to ENCUESTAS_ABIERTO--><path d="M403.45,183.33 C392.05,186.03 380.26,188.37 369,189.84 C325.81,195.46 314.22,195.25 271,189.84 C261.33,188.62 251.27,186.81 241.37,184.69 " fill="none" id="ENCUESTA_ABIERTO-&gt;ENCUESTAS_ABIERTO" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="236.71,183.66,244.628,189.5171,241.5909,184.7447,246.3634,181.7076,236.71,183.66" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="96" x="272" y="185.737">abrirEncuestas()</text><!--MD5=[3a60047af5ec8d13249630f725908b10]
+link ENCUESTAS_ABIERTO to ENCUESTAS_ABIERTO--><path d="M146.92,142.53 C139.62,125.56 145.31,107.84 164,107.84 C180.5,107.84 186.87,121.65 183.11,136.56 " fill="none" id="ENCUESTAS_ABIERTO-&gt;ENCUESTAS_ABIERTO" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="181.57,141.09,188.2566,133.8588,183.181,136.3567,180.6832,131.2811,181.57,141.09" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="110" x="109" y="98.737">eliminarEncuesta()</text><!--MD5=[9f3fb4a3c8b7c612c8a7e5b01341e9b3]
+link ENCUESTA_ABIERTO to ENCUESTA_ABIERTO--><path d="M447.85,142.53 C437.53,125.56 445.58,107.84 472,107.84 C495.53,107.84 504.49,121.9 498.88,136.96 " fill="none" id="ENCUESTA_ABIERTO-&gt;ENCUESTA_ABIERTO" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="496.82,141.17,504.3664,134.8414,499.0161,136.6781,497.1794,131.3277,496.82,141.17" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="108" x="418" y="27.737">editarEncuesta()</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="92" x="426" y="45.443">emitirCodigos()</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="98" x="423" y="63.149">lanzarEncuesta()</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="97" x="423.5" y="80.8551">cerrarEncuesta()</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="122" x="411" y="98.5611">publicarResultados()</text><!--MD5=[7530ce5a06e202cd91dca6e54cc5c625]
+@startuml editarEncuesta-contexto
+
+left to right direction
+hide empty description
+
+
+state ENCUESTAS_ABIERTO
+state ENCUESTA_ABIERTO
+
+[*] - -> ENCUESTAS_ABIERTO
+ENCUESTAS_ABIERTO - -> ENCUESTA_ABIERTO : abrirEncuesta()\ncrearEncuesta()
+ENCUESTA_ABIERTO - -> ENCUESTAS_ABIERTO : abrirEncuestas()
+ENCUESTAS_ABIERTO - -> ENCUESTAS_ABIERTO : eliminarEncuesta()
+ENCUESTA_ABIERTO - -> ENCUESTA_ABIERTO : <b>editarEncuesta()</b>\nemitirCodigos()\nlanzarEncuesta()\ncerrarEncuesta()\npublicarResultados()
+
+@enduml
+
+PlantUML version 1.2020.02(Sun Mar 01 11:22:07 CET 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 25.0.5.1+2-1-26.04.1-Ubuntu
+Operating System: Linux
+Default Encoding: UTF-8
+Language: es
+Country: ES
+--></g></svg>
